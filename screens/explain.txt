@@ -1,0 +1,5 @@
+# this file contains the screen, they're just components
+
+# home screen
+# login screen 
+# more to be added...
